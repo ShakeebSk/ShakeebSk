@@ -190,6 +190,25 @@ The journey never ends. Here's what's on the horizon:
 
 </div>
 
+### 🐍 Code Snake - Consuming Contributions
+
+<div align="center">
+
+```console
+> Initializing contribution snake...
+> Loading commit history...
+> Rendering path through the matrix...
+```
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/ShakeebSk/ShakeebSk/output/github-contribution-grid-snake-dark.svg)
+
+```console
+[SUCCESS] Snake deployed ✓
+[INFO] Tracking all repository activity
+```
+
+</div>
+
 ### 📡 Activity Matrix
 
 <div align="center">
