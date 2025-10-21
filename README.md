@@ -213,7 +213,8 @@ The journey never ends. Here's what's on the horizon:
 
 <div>
   ### ⏱️ My WakaTime Stats  
-[![WakaTime Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=773cc4a2-446e-45d0-a0a2-f974760cd14c&theme=tokyonight&layout=compact)](https://wakatime.com/@773cc4a2-446e-45d0-a0a2-f974760cd14c)
+![WakaTime Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=tokyonight&layout=compact)
+
 
 
 </div>
