@@ -178,12 +178,12 @@ The journey never ends. Here's what's on the horizon:
 </div>
 
 ---
-<--START_SECTION:waka-->
+
 ### ⏱️ My WakaTime Coding Stats<br>
 
 [![WakaTime Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=tokyonight&layout=compact)](https://wakatime.com/@ShakeebSk)
 
-<--END_SECTION:waka-->
+
 
 
 <div align="center">
