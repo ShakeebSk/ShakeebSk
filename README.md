@@ -205,18 +205,17 @@ The journey never ends. Here's what's on the horizon:
 </div>
 
 ---
+<START_SECTION:waka>
+### ⏱️ My WakaTime Coding Stats<br>
+
+[![WakaTime Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=tokyonight&layout=compact)](https://wakatime.com/@ShakeebSk)
+
+<END_SECTION:waka>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Keep%20Building%20The%20Future&fontSize=20&fontColor=fff&animation=twinkling"/>
 </div>
-</START_SECTION:waka>
-
-<div>
-  ### ⏱️ My WakaTime Stats  
-![WakaTime Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=tokyonight&layout=compact)
 
 
-
-</div>
-<END_SECTION:waka>
 
