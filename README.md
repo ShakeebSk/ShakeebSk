@@ -57,37 +57,6 @@ skills = {
 
 ---
 
-## 🚀 Expeditions & Discoveries
-
-### 🎯 Featured Missions
-
-#### 🤝 [AutoHire - Intelligent Job Application System](https://github.com/ShakeebSk/AutoHire-Intelligent-Job-Application-System)
-*The future of job hunting is autonomous*
-- Automated LinkedIn job applications
-- Smart filtering and targeting
-- Because your time is too valuable for repetitive tasks
-
-#### 🎬 [Movie Recommendation Engine](https://github.com/ShakeebSk/Movie-Recommendation-System)
-*Your personal Netflix algorithm*
-- ML-powered recommendations
-- Understanding patterns in entertainment
-- Predicting what you'll love before you know it
-
-#### 🎙️ [Virtual AI Voice Assistant](https://github.com/ShakeebSk/Virtual-AI-Voice-Assistant)
-*When code learns to listen*
-- Voice-controlled intelligence
-- Natural interaction with machines
-- The future talks back
-
-#### ⛅ [Weather Intelligence App](https://github.com/ShakeebSk/Simple-Weather-App)
-*Real-time weather at your fingertips*
-- Flutter-powered elegance
-- Live API integration
-- Beautiful data visualization
-
----
-
-## 📊 The Expedition Stats
 
 <div align="center">
 
@@ -169,15 +138,16 @@ The journey never ends. Here's what's on the horizon:
 ## 🎮 Fun Zone
 
 <div align="center">
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShakeebSk/ShakeebSk/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShakeebSk/ShakeebSk/output/pacman-contribution-graph.svg">
     <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ShakeebSk/ShakeebSk/output/pacman-contribution-graph.svg">
-  </picture>
+  </picture> -->
 
   <br/><br/>
 
-  <img src="https://raw.githubusercontent.com/ShakeebSk/ShakeebSk/output/snake.svg" alt="Snake animation" />
+  ![snake animation](https://github.com/ShakeebSk/ShakeebSk/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
@@ -201,6 +171,7 @@ The journey never ends. Here's what's on the horizon:
 *Lost but never without direction. Wandering but always forward.*
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=ShakeebSk&icon=0&color=12)
+
 
 </div>
 
