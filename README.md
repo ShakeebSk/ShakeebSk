@@ -147,6 +147,7 @@ The journey never ends. Here's what's on the horizon:
   <br/><br/>
 
   ![snake animation](https://github.com/ShakeebSk/ShakeebSk/blob/output/github-contribution-grid-snake.svg)
+
   
 
 </div>
