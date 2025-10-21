@@ -1,20 +1,25 @@
-name: Generate Snake
+name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *" # Runs daily, you can change frequency if you wish
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ShakeebSk           # <-- Set this to your GitHub username
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
+
       - name: Push Snake SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
