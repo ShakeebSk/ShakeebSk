@@ -147,6 +147,7 @@ The journey never ends. Here's what's on the horizon:
   <br/><br/>
 
   ![snake animation](https://github.com/ShakeebSk/ShakeebSk/blob/output/github-contribution-grid-snake.svg)
+  
 
 </div>
 
@@ -170,19 +171,18 @@ The journey never ends. Here's what's on the horizon:
 
 *Lost but never without direction. Wandering but always forward.*
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=ShakeebSk&icon=0&color=12)
 ![Profile views](https://komarev.com/ghpvc/?username=ShakeebSk)
 
 
 </div>
 
 ---
-<START_SECTION:waka>
+<--START_SECTION:waka-->
 ### ⏱️ My WakaTime Coding Stats<br>
 
 [![WakaTime Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=tokyonight&layout=compact)](https://wakatime.com/@ShakeebSk)
 
-<END_SECTION:waka>
+<--END_SECTION:waka-->
 
 
 <div align="center">
