@@ -57,6 +57,37 @@ skills = {
 
 ---
 
+## 🚀 Expeditions & Discoveries
+
+### 🎯 Featured Missions
+
+#### 🤝 [AutoHire - Intelligent Job Application System](https://github.com/ShakeebSk/AutoHire-Intelligent-Job-Application-System)
+*The future of job hunting is autonomous*
+- Automated LinkedIn job applications
+- Smart filtering and targeting
+- Because your time is too valuable for repetitive tasks
+
+#### 🎬 [Movie Recommendation Engine](https://github.com/ShakeebSk/Movie-Recommendation-System)
+*Your personal Netflix algorithm*
+- ML-powered recommendations
+- Understanding patterns in entertainment
+- Predicting what you'll love before you know it
+
+#### 🎙️ [Virtual AI Voice Assistant](https://github.com/ShakeebSk/Virtual-AI-Voice-Assistant)
+*When code learns to listen*
+- Voice-controlled intelligence
+- Natural interaction with machines
+- The future talks back
+
+#### ⛅ [Weather Intelligence App](https://github.com/ShakeebSk/Simple-Weather-App)
+*Real-time weather at your fingertips*
+- Flutter-powered elegance
+- Live API integration
+- Beautiful data visualization
+
+---
+
+## 📊 The Expedition Stats
 
 <div align="center">
 
@@ -135,35 +166,56 @@ The journey never ends. Here's what's on the horizon:
 
 ---
 
-## 🎮 Fun Zone
+## 📈 WakaTime Coding Stats
 
-<!-- <div align="center">
-  <!-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShakeebSk/ShakeebSk/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShakeebSk/ShakeebSk/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ShakeebSk/ShakeebSk/output/pacman-contribution-graph.svg">
-  </picture> -->
-
-  <br/><br/>
-
-  ![snake animation](https://github.com/ShakeebSk/ShakeebSk/blob/output/github-contribution-grid-snake.svg)
-
-  
-
-</div> -->
-
-🌌 The Digital Constellation
 <div align="center">
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6FD8&text_color=FFFFFF&layout=compact)](https://wakatime.com/@ShakeebSk)
+
+</div>
+
+---
+
+## 💻 Terminal Access Log
+
+<div align="center">
+
+```console
+┌─[lost-coder@github]─[~/contributions]
+└──╼ $ cat activity.log
+[STATUS] Monitoring digital footprints...
+[TRACE] Mapping code signatures across the void...
+[SUCCESS] Neural pathways established ✓
 ```
-    ✦     ╔═══════════════════════════════════════════════════╗     ✦
-  ✧       ║  Every commit is a star in the infinite cosmos   ║       ✧
-    ✦     ║       Charting the path through the void         ║     ✦
-          ╚═══════════════════════════════════════════════════╝
+
+</div>
+
+### 📡 Activity Matrix
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShakeebSk&theme=high-contrast&hide_border=true&bg_color=0a0a0a&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=00ff41)
+
+</div>
+
+### 🔐 Commit Trace
+
+<div align="center">
+
+```console
+> Accessing commit history...
+> Decrypting contribution patterns...
+> Rendering heatmap...
 ```
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShakeebSk/ShakeebSk/output/github-contribution-grid-nebula.svg">
-  <img alt="Contribution Nebula" src="https://raw.githubusercontent.com/ShakeebSk/ShakeebSk/output/github-contribution-grid-nebula.svg" />
-</picture>
+
+![Commit Calendar](https://ghchart.rshah.org/00ff41/ShakeebSk)
+
+```console
+[INFO] Total commits logged in the system
+[SYSTEM] All operations nominal ✓
+```
+
+</div>
 
 ---
 
@@ -185,23 +237,12 @@ The journey never ends. Here's what's on the horizon:
 
 *Lost but never without direction. Wandering but always forward.*
 
-![Profile views](https://komarev.com/ghpvc/?username=ShakeebSk)
-
+![Visitor Count](https://visitcount.itsvg.in/api?id=ShakeebSk&icon=0&color=12)
 
 </div>
 
 ---
 
-### ⏱️ My WakaTime Coding Stats<br>
-
-[![WakaTime Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=tokyonight&layout=compact)](https://wakatime.com/@ShakeebSk)
-
-
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Keep%20Building%20The%20Future&fontSize=20&fontColor=fff&animation=twinkling"/>
 </div>
-
-
-
