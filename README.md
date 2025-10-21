@@ -3,8 +3,8 @@
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║  "In the vast expanse of code, I wander...                  ║
-║   Not lost, but exploring infinite possibilities"           ║
+║  "In the vast expanse of code, I wander...                   ║
+║   Not lost, but exploring infinite possibilities"            ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
