@@ -209,3 +209,10 @@ The journey never ends. Here's what's on the horizon:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Keep%20Building%20The%20Future&fontSize=20&fontColor=fff&animation=twinkling"/>
 </div>
+<div>
+  ### ⏱️ My WakaTime Stats  
+[![WakaTime Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=773cc4a2-446e-45d0-a0a2-f974760cd14c&theme=tokyonight&layout=compact)](https://wakatime.com/@773cc4a2-446e-45d0-a0a2-f974760cd14c)
+
+
+</div>
+
