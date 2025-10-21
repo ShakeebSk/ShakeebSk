@@ -55,40 +55,6 @@ skills = {
 
 </div>
 
----
-
-## 🚀 Expeditions & Discoveries
-
-### 🎯 Featured Missions
-
-#### 🤝 [AutoHire - Intelligent Job Application System](https://github.com/ShakeebSk/AutoHire-Intelligent-Job-Application-System)
-*The future of job hunting is autonomous*
-- Automated LinkedIn job applications
-- Smart filtering and targeting
-- Because your time is too valuable for repetitive tasks
-
-#### 🎬 [Movie Recommendation Engine](https://github.com/ShakeebSk/Movie-Recommendation-System)
-*Your personal Netflix algorithm*
-- ML-powered recommendations
-- Understanding patterns in entertainment
-- Predicting what you'll love before you know it
-
-#### 🎙️ [Virtual AI Voice Assistant](https://github.com/ShakeebSk/Virtual-AI-Voice-Assistant)
-*When code learns to listen*
-- Voice-controlled intelligence
-- Natural interaction with machines
-- The future talks back
-
-#### ⛅ [Weather Intelligence App](https://github.com/ShakeebSk/Simple-Weather-App)
-*Real-time weather at your fingertips*
-- Flutter-powered elegance
-- Live API integration
-- Beautiful data visualization
-
----
-
-## 📊 The Expedition Stats
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShakeebSk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6FD8&icon_color=FF6FD8&text_color=FFFFFF&count_private=true&include_all_commits=true)
@@ -256,7 +222,8 @@ The journey never ends. Here's what's on the horizon:
 
 *Lost but never without direction. Wandering but always forward.*
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=ShakeebSk&icon=0&color=12)
+![Profile views](https://komarev.com/ghpvc/?username=ShakeebSk)
+
 
 </div>
 
