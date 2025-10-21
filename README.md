@@ -171,6 +171,7 @@ The journey never ends. Here's what's on the horizon:
 *Lost but never without direction. Wandering but always forward.*
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=ShakeebSk&icon=0&color=12)
+![Profile views](https://komarev.com/ghpvc/?username=ShakeebSk)
 
 
 </div>
