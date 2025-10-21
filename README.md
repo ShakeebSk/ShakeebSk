@@ -137,7 +137,7 @@ The journey never ends. Here's what's on the horizon:
 
 ## 🎮 Fun Zone
 
-<div align="center">
+<!-- <div align="center">
   <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShakeebSk/ShakeebSk/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShakeebSk/ShakeebSk/output/pacman-contribution-graph.svg">
@@ -150,7 +150,20 @@ The journey never ends. Here's what's on the horizon:
 
   
 
-</div>
+</div> -->
+
+🌌 The Digital Constellation
+<div align="center">
+```
+    ✦     ╔═══════════════════════════════════════════════════╗     ✦
+  ✧       ║  Every commit is a star in the infinite cosmos   ║       ✧
+    ✦     ║       Charting the path through the void         ║     ✦
+          ╚═══════════════════════════════════════════════════╝
+```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShakeebSk/ShakeebSk/output/github-contribution-grid-nebula.svg">
+  <img alt="Contribution Nebula" src="https://raw.githubusercontent.com/ShakeebSk/ShakeebSk/output/github-contribution-grid-nebula.svg" />
+</picture>
 
 ---
 
