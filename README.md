@@ -136,7 +136,10 @@ The journey never ends. Here's what's on the horizon:
 
 <div align="center">
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6FD8&text_color=FFFFFF&layout=compact)](https://wakatime.com/@ShakeebSk)
+### 📊 WakaTime Coding Stats
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=tokyonight&v=2)](https://wakatime.com/@ShakeebSk)
+
 
 </div>
 
