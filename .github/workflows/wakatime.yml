@@ -18,11 +18,6 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           COMMIT_MESSAGE: "⚡ Terminal override: WakaTime stats updated"
-          # Choose one of these block styles:
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿              # Braille blocks (best terminal feel)
-          # BLOCKS: ▁▂▃▄▅▆▇█              # Gradient bars
-          # BLOCKS: ░▒▓█                  # Classic ASCII
-          # BLOCKS: ⬛⬛⬛⬛⬛⬛⬛🟩          # Green squares
           TIME_RANGE: all_time
           LANG_COUNT: 10
           SHOW_TIME: true
