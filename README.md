@@ -131,7 +131,9 @@ The journey never ends. Here's what's on the horizon:
 </div>
 
 ---
-<START_SECTION:waka>
+<!--START_SECTION:waka-->
+
+
 ## 📈 WakaTime Coding Stats
 
 <div align="center">
@@ -152,7 +154,7 @@ The journey never ends. Here's what's on the horizon:
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=tokyonight&v=2)](https://wakatime.com/@ShakeebSk)
 
 </div>
-<END_SECTION:waka>
+<!--END_SECTION:waka-->
 ---
 
 ## 💻 Terminal Access Log
