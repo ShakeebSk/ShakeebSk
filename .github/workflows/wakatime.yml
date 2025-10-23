@@ -11,11 +11,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
       - name: Update WakaTime Stats in README
-        uses: athul/waka-readme@master
+        # uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # --- Hacker Terminal Style Settings ---
           SHOW_TITLE: true
+          BLOCKS: "▓▒░"
           SECTION_NAME: waka
           COMMIT_MESSAGE: "⚡ Terminal override: WakaTime stats updated"
           TIME_RANGE: all_time
