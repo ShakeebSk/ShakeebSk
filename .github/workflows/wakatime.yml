@@ -1,31 +1,32 @@
 name: 🕒 Update WakaTime All-Time Stats
-
 on:
   schedule:
     - cron: '0 0 * * *'   # Runs every day at midnight UTC
   workflow_dispatch:       # Lets you manually trigger the workflow anytime
-
 jobs:
   update-readme:
     name: Generate All-Time WakaTime Stats
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
-
       - name: Update WakaTime Stats in README
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-          # --- Settings ---
+          # --- Hacker Terminal Style Settings ---
           SHOW_TITLE: true
           SECTION_NAME: waka
-          COMMIT_MESSAGE: "📈 Updated WakaTime all-time stats"
-          BLOCKS: ░▒▓█
-          TIME_RANGE: all_time        # ✅ This fetches lifetime data
-          LANG_COUNT: 10              # Number of languages to display
-          SHOW_TIME: true             # Show total hours/mins per language
-          SHOW_TOTAL: true            # Show grand total time
-          SHOW_MASKED_TIME: false     # Show actual time (not hidden)
+          COMMIT_MESSAGE: "⚡ Terminal override: WakaTime stats updated"
+          # Choose one of these block styles:
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿              # Braille blocks (best terminal feel)
+          # BLOCKS: ▁▂▃▄▅▆▇█              # Gradient bars
+          # BLOCKS: ░▒▓█                  # Classic ASCII
+          # BLOCKS: ⬛⬛⬛⬛⬛⬛⬛🟩          # Green squares
+          TIME_RANGE: all_time
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          # Optional: Customize the time format
+          SHOW_TIMEZONE: false
