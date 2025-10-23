@@ -131,7 +131,7 @@ The journey never ends. Here's what's on the horizon:
 </div>
 
 ---
-<!--START_SECTION:waka-->
+
 
 
 ## 📈 WakaTime Coding Stats
@@ -139,22 +139,31 @@ The journey never ends. Here's what's on the horizon:
 <div align="center">
 
 ### 📊 WakaTime Coding Stats
-
+<!--START_SECTION:waka-->
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00)](https://wakatime.com/@ShakeebSk)
-
-
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=39ff14)](https://wakatime.com/@ShakeebSk)
-
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=radical&hide_border=true)](https://wakatime.com/@ShakeebSk)
-
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=midnight-purple&hide_border=true)](https://wakatime.com/@ShakeebSk)
-
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=gruvbox&hide_border=true&bg_color=1a1a1a&title_color=00ff00&text_color=a0a0a0&icon_color=00ff00)](https://wakatime.com/@ShakeebSk)
-
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=tokyonight&v=2)](https://wakatime.com/@ShakeebSk)
-
-</div>
 <!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=39ff14)](https://wakatime.com/@ShakeebSk)
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=radical&hide_border=true)](https://wakatime.com/@ShakeebSk)
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=midnight-purple&hide_border=true)](https://wakatime.com/@ShakeebSk)
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=gruvbox&hide_border=true&bg_color=1a1a1a&title_color=00ff00&text_color=a0a0a0&icon_color=00ff00)](https://wakatime.com/@ShakeebSk)
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=tokyonight&v=2)](https://wakatime.com/@ShakeebSk)
+<!--END_SECTION:waka-->
+</div>
+
 ---
 
 ## 💻 Terminal Access Log
