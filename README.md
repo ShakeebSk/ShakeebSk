@@ -140,27 +140,19 @@ The journey never ends. Here's what's on the horizon:
 
 ### 📊 WakaTime Coding Stats
 <!--START_SECTION:waka-->
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00)](https://wakatime.com/@ShakeebSk)
-<!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-->
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=39ff14)](https://wakatime.com/@ShakeebSk)
-<!--END_SECTION:waka-->
+```txt
+From: 19 October 2025 - To: 22 October 2025
 
-<!--START_SECTION:waka-->
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=radical&hide_border=true)](https://wakatime.com/@ShakeebSk)
-<!--END_SECTION:waka-->
+Total Time: 4 hrs 47 mins
 
-<!--START_SECTION:waka-->
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=midnight-purple&hide_border=true)](https://wakatime.com/@ShakeebSk)
-<!--END_SECTION:waka-->
+Python   4 hrs 32 mins   ███████████████████████▓░   94.56 %
+Dart     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+INI      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+JSON     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+```
 
-<!--START_SECTION:waka-->
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=gruvbox&hide_border=true&bg_color=1a1a1a&title_color=00ff00&text_color=a0a0a0&icon_color=00ff00)](https://wakatime.com/@ShakeebSk)
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-->
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=tokyonight&v=2)](https://wakatime.com/@ShakeebSk)
 <!--END_SECTION:waka-->
 </div>
 
