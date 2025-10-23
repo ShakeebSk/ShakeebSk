@@ -61,7 +61,8 @@ skills = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeebSk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6FD8&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShakeebSk&theme=radical&hide_border=true&background=0D1117&ring=FF6FD8&fire=FF6FD8&currStreakLabel=FF6FD8)
+![GitHub Streak](https://streak-stats.demolab.com?user=ShakeebSk&theme=radical&hide_border=true&background=0D1117&ring=FF6FD8&fire=FF6FD8&currStreakLabel=FF6FD8)
+
 
 </div>
 
