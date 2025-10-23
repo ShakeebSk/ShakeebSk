@@ -223,7 +223,7 @@ The journey never ends. Here's what's on the horizon:
 │ "In every line of code, there's a universe waiting      │
 │  to be discovered. I'm just the explorer mapping the    │
 │  terrain for those who follow."                         │
-│                                                          │
+│                                                         │
 │  - Shakeeb Shaikh, The Lost Coder                       │
 └─────────────────────────────────────────────────────────┘
 ```
