@@ -131,13 +131,13 @@ The journey never ends. Here's what's on the horizon:
 </div>
 
 ---
-
+<START_SECTION:waka>
 ## 📈 WakaTime Coding Stats
 
 <div align="center">
 
 ### 📊 WakaTime Coding Stats
-<START_SECTION:waka>
+
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00)](https://wakatime.com/@ShakeebSk)
 
 
@@ -150,9 +150,9 @@ The journey never ends. Here's what's on the horizon:
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=gruvbox&hide_border=true&bg_color=1a1a1a&title_color=00ff00&text_color=a0a0a0&icon_color=00ff00)](https://wakatime.com/@ShakeebSk)
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=tokyonight&v=2)](https://wakatime.com/@ShakeebSk)
-<END_SECTION:waka>
-</div>
 
+</div>
+<END_SECTION:waka>
 ---
 
 ## 💻 Terminal Access Log
