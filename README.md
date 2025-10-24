@@ -141,8 +141,17 @@ The journey never ends. Here's what's on the horizon:
 ### 📊 WakaTime Coding Stats
 <!--START_SECTION:waka-->
 
+```txt
+From: 19 October 2025 - To: 23 October 2025
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShakeebSk&theme=tokyonight&v=2)](https://wakatime.com/@ShakeebSk)
+Total Time: 8 hrs 40 mins
+
+Python   8 hrs 25 mins   ████████████████████████░   96.28 %
+Dart     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+INI      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Other    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+JSON     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+```
 
 <!--END_SECTION:waka-->
 </div>
