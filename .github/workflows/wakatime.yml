@@ -11,6 +11,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
       - name: Update WakaTime Stats in README
+      # This is for testing
         # uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
