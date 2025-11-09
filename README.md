@@ -42,9 +42,9 @@ I'm a wanderer in the digital realm, traversing through the endless landscapes o
 skills = {
     "languages": ["Python", "JavaScript", "Dart", "C", "Bash"],
     "frameworks": ["Flutter", "Flask", "Django", "Tailwind CSS", "Bootstrap"],
-    "ai_ml": ["TensorFlow", "Scikit-learn", "NLP", "Recommendation Systems"],
-    "databases": ["MongoDB", "MySQL", "SQLite"],
-    "tools": ["Git", "GitHub", "Linux", "VS Code", "Figma"],
+    "ai_ml": ["TensorFlow", "Scikit-learn", "NLP","MatPlotLib", "Recommendation Systems"],
+    "databases": ["SQL","Postgres","MongoDB", "PlSQL","MySQL", "SQLite",],
+    "tools": ["Git", "GitHub", "Linux", "VS Code", "Figma","AWS","DOCKER","Redis"],
     "mindset": ["Problem Solver", "Future Builder", "Eternal Learner"]
 }
 ```
