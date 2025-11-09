@@ -40,7 +40,7 @@ I'm a wanderer in the digital realm, traversing through the endless landscapes o
 
 ```python
 skills = {
-    "languages": ["Python", "JavaScript", "Dart", "C", "Bash","HTML",CSS],
+    "languages": ["Python", "JavaScript", "Dart", "C", "Bash","HTML","CSS"],
     "frameworks": ["Flutter", "Flask", "Django", "Tailwind CSS", "Bootstrap"],
     "ai_ml": ["TensorFlow", "Scikit-learn", "NLP","MatPlotLib", "Recommendation Systems"],
     "databases": ["SQL","Postgres","MongoDB", "PlSQL","MySQL", "SQLite",],
