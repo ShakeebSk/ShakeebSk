@@ -1,4 +1,5 @@
-# 🌌 Shakeeb Shaikh
+
+<h1 align="center">🌌 Shakeeb Shaikh</h1>
 ## The Lost Coder
 
 ```ascii
